@@ -1,0 +1,5 @@
+.idea
+node_modules
+dependency-check-bin
+dependency-check-data
+dependency-check-reports
